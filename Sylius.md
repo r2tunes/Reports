@@ -1,3 +1,5 @@
+<h1>CVE-2024-29376<h1>
+
 I found a stored Cross-site script in Sylius application in 1.12.13 version.
 
 Steps to Reproduce:

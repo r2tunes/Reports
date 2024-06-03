@@ -1,0 +1,9 @@
+Steps to Reproduce:
+
+1.Try a Live Demo Template in endpoint ‘https://www.kopage.com/templates’.
+2.Navigate to Settings > Contact Information.
+3.Insert the payload <IMG """><SCRIPT>alert(document.cookie)</SCRIPT>"> into the “City” field.
+4.Upon clicking edit again, the payload is successfully executed.
+
+Attached are screenshots demonstrating the exploitation of the vulnerability.
+
